@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zo3lWL9c0NMtiMfuIBpJP9/t/NCwz8QeVPAd+i+fBLSAYOlxQe9B5DHnmIMGCxyaZApM4GTQCv8UqRif4UFkHQ==",
+  "dgSpecHash": "rJyvTPLgydZqjiaR1SodgkClcul4iEIQ8CUBk42jipteuphQCe6ZBm3JjI59zcJC1wD593VS1viZrIAmjOn1kw==",
   "success": true,
   "projectFilePath": "/home/jaymeson/Documentos/cursos/quantum/quantumHelloWorld/quantumHelloWorld.csproj",
   "expectedPackageFiles": [
@@ -133,8 +133,7 @@
     "/home/jaymeson/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/home/jaymeson/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/home/jaymeson/.nuget/packages/windowsazure.storage/9.3.3/windowsazure.storage.9.3.3.nupkg.sha512",
-    "/home/jaymeson/.nuget/packages/yamldotnet/7.0.0/yamldotnet.7.0.0.nupkg.sha512",
-    "/home/jaymeson/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
+    "/home/jaymeson/.nuget/packages/yamldotnet/7.0.0/yamldotnet.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
